@@ -1,3 +1,8 @@
+# Description 
+This is my spin on the [React Tic-Tac-Toe tutorial](https://reactjs.org/tutorial/tutorial.html). When I wrote it, I intentionally avoided simply 
+performing a copy/paste of the code. I went through it line by line, trying to really get into what was happening. Additionally, I made some minor 
+changes to the styling and added a reset button.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
